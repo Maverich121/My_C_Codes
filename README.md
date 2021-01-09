@@ -1,0 +1,1 @@
+# Okulda yazdığım C kodlarım.
