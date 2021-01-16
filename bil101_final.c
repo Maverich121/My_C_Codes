@@ -56,7 +56,7 @@ int main()
 	printf("Select Difficulty Level: (Hard:h,Easy:e)");
 	scanf("%c",&choice);
 
-	if (choice=='h')
+	if (choice =='h')
 		n_of_mons = rand_num(16,32);
 	if (choice == 'e')
 		n_of_mons = rand_num(3,7);
